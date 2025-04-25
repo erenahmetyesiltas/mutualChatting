@@ -1,6 +1,6 @@
 In this project, a basic mutual chatting program is developed with socket programming in C.
 
-There are 2 ends which are server and clients.
+There are 2 ends which are server and client.
 In the **server**, 
 - Firstly, a **socket is created** for server end with these properties: IPV4 addressing and TCP.
 - Secondly, **bind** operation is generated: The socket is binded with a specified port number and an IP address.
